@@ -1206,7 +1206,7 @@
     (property "Reference" "#PWR0111" (id 0) (at 138.43 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 138.43 63.5 0))
+    (property "Value" "GND" (id 1) (at 138.43 63.5 0))
     (property "Footprint" "" (id 2) (at 138.43 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1343,7 +1343,7 @@
     (property "Reference" "USB1" (id 0) (at 123.825 39.37 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "" (id 1) (at 123.825 43.18 90)
+    (property "Value" "Molex-0548190589" (id 1) (at 123.825 43.18 90)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "" (id 2) (at 125.73 53.34 0)
@@ -1440,7 +1440,7 @@
     (property "Reference" "D1" (id 0) (at 172.72 43.1799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "" (id 1) (at 172.72 45.7199 90)
+    (property "Value" "D_Small" (id 1) (at 172.72 45.7199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 170.18 44.45 90)
@@ -1579,7 +1579,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b3fdcb11-5d1c-4ba1-9ca9-c8619a245c09)
     (property "Reference" "F1" (id 0) (at 146.05 41.91 90))
-    (property "Value" "" (id 1) (at 146.05 44.45 90))
+    (property "Value" "500mA" (id 1) (at 146.05 44.45 90))
     (property "Footprint" "" (id 2) (at 151.13 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -1730,7 +1730,7 @@
     (property "Reference" "#PWR0113" (id 0) (at 154.94 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 154.94 43.18 0))
+    (property "Value" "+5V" (id 1) (at 154.94 43.18 0))
     (property "Footprint" "" (id 2) (at 154.94 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1762,7 +1762,7 @@
     (property "Reference" "#PWR0112" (id 0) (at 137.16 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 137.16 43.18 0))
+    (property "Value" "VCC" (id 1) (at 137.16 43.18 0))
     (property "Footprint" "" (id 2) (at 137.16 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1832,7 +1832,7 @@
     (property "Reference" "MX1" (id 0) (at 174.8756 31.75 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "" (id 1) (at 174.8756 33.02 0)
+    (property "Value" "MX-NoLED" (id 1) (at 174.8756 33.02 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "" (id 2) (at 158.115 38.735 0)
@@ -1890,76 +1890,76 @@
       (reference "#PWR0113") (unit 1) (value "+5V") (footprint "")
     )
     (path "/e1e8dd66-8ed5-4258-b3c3-001a9e5e2919"
-      (reference "C1") (unit 1) (value "0.1uF") (footprint "")
+      (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/55cdba5b-f1bf-4114-9fff-da9c023b202e"
-      (reference "C2") (unit 1) (value "0.1uF") (footprint "")
+      (reference "C2") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/8556880b-ecfc-459e-bacd-9e0e0e2c0c44"
-      (reference "C3") (unit 1) (value "22pF") (footprint "")
+      (reference "C3") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b2d240e1-05da-4df8-9226-3afd75655dde"
-      (reference "C4") (unit 1) (value "22pF") (footprint "")
+      (reference "C4") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c4bf4f1d-207d-42f1-806e-9baebe0f6680"
-      (reference "C5") (unit 1) (value "0.1uF") (footprint "")
+      (reference "C5") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/f707362e-dd2b-4e1e-8af5-8004c7870c5e"
-      (reference "C6") (unit 1) (value "1uF") (footprint "")
+      (reference "C6") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/ee55c58a-6b1d-4bad-a694-71c6da01d262"
-      (reference "C7") (unit 1) (value "0.1uF") (footprint "")
+      (reference "C7") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/648f76e5-e2c1-4fe8-a343-6c13aa6426a8"
-      (reference "D1") (unit 1) (value "D_Small") (footprint "")
+      (reference "D1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/61ca1273-6675-4ac3-bf0c-9711b4119216"
-      (reference "D2") (unit 1) (value "D_Small") (footprint "")
+      (reference "D2") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/becf7fd5-db0a-4011-bf2c-af62757a7ad0"
-      (reference "D3") (unit 1) (value "D_Small") (footprint "")
+      (reference "D3") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/370239c0-944a-40e0-89e9-66ade0ad6752"
-      (reference "D4") (unit 1) (value "D_Small") (footprint "")
+      (reference "D4") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/b3fdcb11-5d1c-4ba1-9ca9-c8619a245c09"
-      (reference "F1") (unit 1) (value "500mA") (footprint "")
+      (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/fb4c611a-85fa-4b84-997a-8a6f1b8ec982"
-      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "Alps_Only:skcc")
     )
     (path "/1be42772-4c81-4881-9526-4d278810ffb5"
-      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "Alps_Only:skcc")
     )
     (path "/56beaebe-ce8e-4335-9a9f-1e32e117aa3a"
-      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "Alps_Only:skcc")
     )
     (path "/48efb94c-7490-48b7-985d-5d498ebcf74d"
-      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "")
+      (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "Alps_Only:skcc")
     )
     (path "/7c315d23-4609-4897-8344-e59052d91917"
-      (reference "R1") (unit 1) (value "22") (footprint "")
+      (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/bed9347b-90cd-47f8-92cc-783dd5552bb5"
-      (reference "R2") (unit 1) (value "22") (footprint "")
+      (reference "R2") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/4632813c-056d-4cc4-9fc5-8f16ab759e82"
-      (reference "R3") (unit 1) (value "10k") (footprint "")
+      (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/bf198b6a-dbfd-413e-bbd0-4c05e89ae5bf"
-      (reference "R4") (unit 1) (value "10k") (footprint "")
+      (reference "R4") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d9ce577a-f9be-4514-864d-1c451233179c"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Schematic Library:SKQG-1155865")
     )
     (path "/97b6acfc-5784-44d8-a104-d41acbeffcfb"
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
     )
     (path "/53ae21b8-f187-4817-8c27-1f06278d249b"
-      (reference "USB1") (unit 1) (value "Molex-0548190589") (footprint "")
+      (reference "USB1") (unit 1) (value "Molex-0548190589") (footprint "Schematic Library:Molex-0548190589")
     )
     (path "/5c5c58f4-4216-449e-b781-a08cad09fd3c"
-      (reference "Y1") (unit 1) (value "16MHz") (footprint "")
+      (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
     )
   )
 )
