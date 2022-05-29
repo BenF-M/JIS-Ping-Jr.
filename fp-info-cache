@@ -1,4 +1,4 @@
-20372807921335514
+20419138890634229
 Alps_Only
 ALPS-1.5U
 
@@ -190,6 +190,41 @@ ALPS-LEDONLY-FLIPPED
 2
 Alps_Only
 skcc
+
+
+0
+2
+2
+Alps_Only
+skcc1.5
+
+
+0
+2
+2
+Alps_Only
+skcc1.25
+
+
+0
+2
+2
+Alps_Only
+skcc1.75
+
+
+0
+2
+2
+Alps_Only
+skcc7
+
+
+0
+2
+2
+Alps_Only
+skccWithborder
 
 
 0
@@ -79547,6 +79582,174 @@ rotary encoder
 0
 5
 4
+Schematic Library
+D_SOD-123-Pretty
+SOD-123
+SOD-123
+0
+2
+2
+Schematic Library
+Generic-Mounthole
+
+
+0
+1
+1
+Schematic Library
+JST-SR-3
+
+
+0
+5
+3
+Schematic Library
+JST-SR-4
+
+
+0
+6
+4
+Schematic Library
+Jumper-UserFriendly
+
+
+0
+2
+2
+Schematic Library
+Jumper-UserFriendly-Small
+
+
+0
+2
+2
+Schematic Library
+LED-6028
+
+
+0
+2
+2
+Schematic Library
+LED_D3.0mm-NoSilk
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+Schematic Library
+LED_D3.0mm-Pretty
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+Schematic Library
+Molex-0548190519
+
+
+0
+7
+6
+Schematic Library
+Molex-0548190589
+
+
+0
+9
+6
+Schematic Library
+PJ-3200B-4A
+
+
+0
+4
+4
+Schematic Library
+PJ-3200B-4A-Assembly
+
+
+0
+4
+4
+Schematic Library
+PushButton_6x6mm_TH
+
+
+0
+4
+4
+Schematic Library
+PushButton_6x6mm_TH_Pretty
+
+
+0
+4
+4
+Schematic Library
+RGB-6028
+
+
+0
+4
+4
+Schematic Library
+Reset_Pretty
+
+
+0
+6
+6
+Schematic Library
+Reset_Pretty-Mask
+
+
+0
+6
+6
+Schematic Library
+SKQG-1155865
+
+
+0
+4
+4
+Schematic Library
+SKQGADE010
+
+
+0
+4
+4
+Schematic Library
+SOT143B
+
+
+0
+4
+4
+Schematic Library
+USB-A-Generic
+
+
+0
+6
+5
+Schematic Library
+USON-TPDxE05U06
+
+
+0
+10
+10
+Schematic Library
+breakaway-mousebites
+
+
+0
+0
+0
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
